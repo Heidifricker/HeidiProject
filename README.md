@@ -1,6 +1,6 @@
 # Music Matchmaker
 
-A personalized concert recommendation system for music enthusiasts.  
+A personalised concert recommendation system for music enthusiasts.  
 
 
 ---
@@ -22,7 +22,7 @@ A personalized concert recommendation system for music enthusiasts.
 
 ## General Information
 
-**Music Matchmaker** is a Python-based application that recommends concerts based on user preferences for music genre and date. The system returns a personalized concert suggestion along with a link to buy tickets.
+**Music Matchmaker** is a Python-based application that recommends concerts based on user preferences for music genre and date. The system returns a personalised concert suggestion along with a link to buy tickets.
 
 - **Problem Solved:** Simplifies the concert selection process by narrowing down options to match users’ interests, reducing decision fatigue.
 - **Purpose:** To offer a quick and easy way for users to find concerts they’d love to attend, with recommendations tailored to genre and date.
@@ -40,7 +40,7 @@ A personalized concert recommendation system for music enthusiasts.
 
 ## Features
 
-- Personalized concert recommendations based on genre and date.
+- Personalised concert recommendations based on genre and date.
 - Randomized concert suggestion if multiple options match.
 - Extensive data validation for genre and date inputs.
 - Suggestions for alternate months if no concerts are available on a user’s selected date.
@@ -68,7 +68,7 @@ No external dependencies are needed for setup. You may set up your environment b
 
 1. Run the program by opening `main.py` in your Python environment.
 2. Input your preferred music genre and date (format YYYY-MM) when prompted.
-3. Receive a personalized concert recommendation or suggestions for other available months.
+3. Receive a personalised concert recommendation or suggestions for other available months.
 4. Follow the provided ticket link to purchase tickets.
 
 ---
@@ -89,7 +89,7 @@ No external dependencies are needed for setup. You may set up your environment b
 **To Do:**
 
 - Integrate real-time data using an API for concert information.
-- Add location-based recommendations for improved personalization.
+- Add location-based recommendations for improved personalisation.
 
 ---
 
