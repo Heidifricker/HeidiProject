@@ -57,7 +57,8 @@ A personalised concert recommendation system for music enthusiasts.
 
 **Requirements:**
 
-- Python 3.0 or higher
+- Electronic device with Python 3.0 or higher
+- Internet access for links to concert tickets
 - JSON file with concert data (or integrated data structure as per code)
 
 No external dependencies are needed for setup. You may set up your environment by downloading the project files and running the `main.py` file directly in Python IDLE or Visual Studio Code.
