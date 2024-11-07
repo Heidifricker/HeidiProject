@@ -1,0 +1,37 @@
+{
+    "p": {
+        "artist": "Dua Lipa",
+        "ticket_link": "https://www.livenation.com.au/artist-dua-lipa-780986",
+        "dates": [
+            "2025-03"
+        ]
+    },
+    "h": {
+        "artist": "Travis Scott",
+        "ticket_link": "https://www.livenation.com.au/show/1510318/travis-scott-circus-maximus-tour/sydney/2024-10-18/en",
+        "dates": [
+            "2024-10"
+        ]
+    },
+    "r": {
+        "artist": "Cigarettes After Sex",
+        "ticket_link": "https://premier.ticketek.com.au/shows/show.aspx?sh=CAFTERS24&v=SYI",
+        "dates": [
+            "2025-03"
+        ]
+    },
+    "e": {
+        "artist": "Peggy Gou",
+        "ticket_link": "https://premier.ticketek.com.au/shows/show.aspx?sh=PEGGYGOU24",
+        "dates": [
+            "2024-11"
+        ]
+    },
+    "c": {
+        "artist": "Kane Brown",
+        "ticket_link": "https://premier.ticketek.com.au/shows/show.aspx?sh=KANEBROW24&irclickid=z7Oy3i38HxyPURmzd039LU3cUkCym1RAxR8Kzw0&irgwc=1",
+        "dates": [
+            "2024-11"
+        ]
+    }
+}
