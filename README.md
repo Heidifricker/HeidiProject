@@ -97,7 +97,7 @@ No external dependencies are needed for setup. You may set up your environment b
 ## Acknowledgements
 
 This project was inspired by the desire to streamline concert discovery.  
-Special thanks to my classmates and instructor for their feedback and support throughout the development process.
+Special thanks to my classmates and tutor, Andrew for their feedback and support throughout the development process.
 
 ---
 
