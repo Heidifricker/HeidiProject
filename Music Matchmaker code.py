@@ -6,7 +6,7 @@ concerts = {
     "p1": {  # Pop
         "artist": "FLETCHER",
         "ticket_link": "https://www.jambase.com/show/fletcher-hordern-pavilion-20241027",
-        "dates": ["2024-10"]
+        "dates": ["2024-10-27"]
     },
     "p2": {  # Pop
         "artist": "Kim Wilde",
